@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compassion Academy - About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <div class="logo-placeholder">Compassion Academy Logo</div>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about-page">
+        <h1>About Compassion Academy</h1>
+        <p>We are a premier institution dedicated to fostering academic excellence and personal growth.</p>
+        <div class="mission">
+            <h3>Our Mission</h3>
+            <p>To inspire and educate the next generation of leaders.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Compassion Academy. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
